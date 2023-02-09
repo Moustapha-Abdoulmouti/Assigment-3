@@ -1,0 +1,14 @@
+name = ("Moustapha Abdoulmouti")
+major = ("Informatics Engineering")
+quote = ("")
+age = 20
+ilikepiceFood = True
+hoppies = ["swimming", "football", "and reading"];
+
+print("My name is: ",name)
+print("My major is: ",major)
+
+print("i like spicy food: ",ilikepiceFood)
+print("My age is: ",age)
+print("My hoppies are: ",hoppies)
+print(quote)
